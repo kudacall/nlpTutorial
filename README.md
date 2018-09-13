@@ -4,6 +4,8 @@ This is a Tutorial and Presentation for Introducing NLP Concepts and Tools like 
 The audience for this tutorial is the Houston Data Analytics Group on Thurs, Sept 13, 2018:
 https://www.meetup.com/Houston-Data-Analytics-Meetup/events/253854912/
 
+##### This presentation was sponsored by Sense Corp (www.sensecorp.com), which powers insight-driven organizations.
+
 ## Prereqs
 1. Understanding of basic English grammars, syntax, and diction.
 2. Working knowledge of Python.  
@@ -16,3 +18,5 @@ https://www.meetup.com/Houston-Data-Analytics-Meetup/events/253854912/
 
 ## Contact
 Please feel free to contact me if you have any questions: justinjnguyen@gmail.com
+
+The PPT will be uploaded on 9/14/18.
