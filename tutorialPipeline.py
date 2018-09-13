@@ -32,7 +32,7 @@ import warnings
 warnings.filterwarnings("ignore",category=DeprecationWarning)
 
 # 1: Import our Corpus
-df = pd.read_json('https://raw.githubusercontent.com/selva86/datasets/master/newsgroups.json')
+df = pd.read_json('https://raw.githubusercontent.com/kudacall/nlpTutorial/master/newsgroups.json')
 print(df.target_names.unique()) #Examine our topics
 df.head() 
 
